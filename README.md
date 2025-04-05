@@ -76,15 +76,6 @@ Once trained, it predicts the best crop for given soil and climate data.
 
 ---
 
-## 🧩 Integration
-
-The crop model is integrated into the **AgriSens** web app, providing real-time crop suggestions. The system is designed to be extended with additional features like:
-
-- 🌿 Plant Disease Detection
-- 🌱 Fertilizer Recommendation
-
----
-
 ## 🖼 System Architecture
 
 ```text
