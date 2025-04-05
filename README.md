@@ -84,3 +84,14 @@ Once trained, it predicts the best crop for given soil and climate data.
 
 ![Comparison bar](https://github.com/user-attachments/assets/eacf6c2b-8fbb-440d-9dae-5859581b9910)
 
+---
+
+## 📌 Copyright
+- Copyright Form Diary No: 8848/2025-CO/L
+
+---
+
+## 📬 Contact
+- Email ID - manthanbhegade407@gmail.com
+
+---
