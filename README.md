@@ -78,8 +78,9 @@ Once trained, it predicts the best crop for given soil and climate data.
 
 ## 🖼 System Architecture
 
-```text
-[User Inputs Data] → [Preprocessing & ML Model] → [Best Crop Output Shown on Interface]
+![Crop-Recommendation-System](https://github.com/user-attachments/assets/0e861370-b891-4157-9809-d03485fbb7b2)
 
+---
 
+![Comparison bar](https://github.com/user-attachments/assets/eacf6c2b-8fbb-440d-9dae-5859581b9910)
 
