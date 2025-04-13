@@ -55,6 +55,8 @@ Six machine learning algorithms were tested:
 
 📌 The **Random Forest** algorithm performed best, offering excellent **Precision, Recall, and F1-score**.
 
+![Comparison bar](https://github.com/user-attachments/assets/94865916-49ba-4ba7-bf45-a3b79efcb322)
+
 ---
 
 ## 📐 Model Architecture
@@ -64,6 +66,9 @@ The model uses **Scikit-learn** and **Pandas** for data handling, with preproces
 - Normalization
 - Label Encoding
 - Train-Test Splitting
+
+  
+![work flow](https://github.com/user-attachments/assets/42f99322-9283-41c9-86e7-ff82d02549ed)
 
 Once trained, it predicts the best crop for given soil and climate data.
 
@@ -83,7 +88,21 @@ The crop model is integrated into the **AgriSens** web app, providing real-time 
 
 ---
 
-## 🖼 System Architecture
+## 🎯 Outcomes
 
-```text
-[User Inputs Data] → [Preprocessing & ML Model] → [Best Crop Output Shown on Interface]
+- ✅ Accurate and reliable crop suggestions
+- 🌐 Easy accessibility through web interface
+- 🌱 Supports sustainable and profitable farming
+
+---
+
+## 📌 Copyright
+
+- Copyright Form Diary No: 8848/2025-CO/L
+
+---
+## 📬 Contact
+
+- manthanbhegade407@gmail.com
+  
+---
